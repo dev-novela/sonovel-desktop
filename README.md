@@ -1,0 +1,1 @@
+sonovel desktop app
